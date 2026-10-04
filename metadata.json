@@ -1,0 +1,8 @@
+{
+  "name": "OS-Technique | Système Qualité & Métrologie",
+  "description": "Système Qualité, Métrologie & Contrôle de Production",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
